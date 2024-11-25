@@ -13,3 +13,12 @@ JavaSwing을 이용한 미니게임
 ■ Java SDK : Oracle JDK 17
 
 # 주요기능
+■ 언어 : Java 17
+
+■ IDE : Eclipse
+
+■ 운영 체제 : Windows
+
+■ Java SDK : Oracle JDK 17
+
+# 주요기능

@@ -16,4 +16,7 @@ JavaSwing을 이용한 미니게임
 
 ■ Java SDK : Oracle JDK 17
 
+
+![DodgingGame (1)](https://github.com/user-attachments/assets/f37dd427-1c99-44a5-8fc2-4d37e4e3f1ba)
+
 # 주요기능
